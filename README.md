@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./images/taqaddam.png" alt="Image Alt Text">
+  <img src="src/main/resources/static/images/taqaddam.png" alt="Image Alt Text">
 </div>
 
 # Taqaddam API
@@ -64,7 +64,7 @@ taqaddam/
 ├── src/
 │   ├── main/
 │   │   ├── java/
-│   │   │   ├── com.ummuammar.taqaddam/
+│   │   │   ├── com.ummuammar.taqaddam.api.v1/
 │   │   │   │   ├── package/
 │   │   │   │   │   ├── controller/
 │   │   │   │   │   ├── service/
